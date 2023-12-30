@@ -1,0 +1,7 @@
+ERROR 2023-12-27 11:50:17,623 views error_logger Error saving yhe user data {'username': [ErrorDetail(string='This field is required.', code='required')], 'password': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2023-12-27 11:55:29,631 views error_logger Error saving yhe user data {'username': [ErrorDetail(string='This field is required.', code='required')], 'password': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2023-12-30 11:35:00,490 views error_logger error creating user {'email': [ErrorDetail(string='Enter a valid email address.', code='invalid')]}
+ERROR 2023-12-30 11:57:29,114 views error_logger error updating users
+ERROR 2023-12-30 11:57:43,325 views error_logger error updating users
+ERROR 2023-12-30 11:57:44,927 views error_logger error updating users
+ERROR 2023-12-30 11:57:55,780 views error_logger error updating users

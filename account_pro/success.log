@@ -1,0 +1,18 @@
+INFO 2023-12-27 11:56:25,792 views success_logger The user with username:user1created successfully
+INFO 2023-12-27 12:03:49,355 views success_logger Account with id1 created successfully
+INFO 2023-12-27 12:05:56,683 views success_logger Account with id2 created successfully
+INFO 2023-12-27 12:07:59,273 views success_logger Account with id3 created successfully
+INFO 2023-12-27 12:08:57,819 views success_logger Account with id4 created successfully
+INFO 2023-12-27 12:15:11,044 views success_logger Account with id5 created successfully
+INFO 2023-12-30 11:34:31,347 views success_logger users fetched successfully
+INFO 2023-12-30 11:35:24,952 views success_logger user created with username babita
+INFO 2023-12-30 11:35:48,272 views success_logger users fetched successfully
+INFO 2023-12-30 11:36:10,668 views success_logger users fetched successfully
+INFO 2023-12-30 11:36:31,276 views success_logger user created with username kavita
+INFO 2023-12-30 11:36:50,729 views success_logger user created with username krushna
+INFO 2023-12-30 11:36:57,569 views success_logger users fetched successfully
+INFO 2023-12-30 11:46:47,886 views success_logger users fetched successfully
+INFO 2023-12-30 11:51:18,705 views success_logger users fetched successfully
+INFO 2023-12-30 11:51:28,759 views success_logger user created with username pooja
+INFO 2023-12-30 11:56:08,527 views success_logger Account with id6 created successfully
+INFO 2023-12-30 12:00:48,636 views success_logger user pooja is deactivated successfully
